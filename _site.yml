@@ -1,18 +1,18 @@
 name: "anna-(ganna)-malinovskaya"
 output_dir: "docs"
 navbar:
-  title: "My name"
+  title: "Anna (Ganna) Malinovskaya"
   left:
     - text: "Home"
       href: index.html
     - text: "CV"
-      href: CV.Rmd
+      href: CV.html
     - text: "Research"
-      href: research.Rmd
+      href: research.html
     - text: "Teaching"
-      href: teaching.Rmd
+      href: teaching.html
     - text: "About me"
-      href: AboutMe.Rmd
+      href: AboutMe.html
 
   right:
     - icon: fa-envelope fa-lg
