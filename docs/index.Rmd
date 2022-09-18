@@ -1,0 +1,43 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+layout: default
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>My name</h1> </center>
+
+<center>
+Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)  
+**Pronouns:** she, her
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="photo_of_me.png" style="width:20%;
+border:5px solid; border-color:black">
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+My fields of specialization are Public Economics and Applied Econometrics with interests in Labor, Education, and Crime. I am currently studying the long-term effects of the WIC program and the effects of COVID-driven technology adoption on US firm labor demand. I will be on the job market in the 2023-2024 academic year.
+   
+Please find my CV [].   
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>

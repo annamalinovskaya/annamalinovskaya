@@ -1,0 +1,42 @@
+---
+title: ""
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'phd.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Graduate Education - Ph.D.</h1> </center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="cornell.jpg" style="width:55%">
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+## Doctor of Philosophy: Applied Economics & Management
+Cornell University Graduate School, Ithaca, NY 
+
+- **Honors and Awards:** 
+- Russell Sage Foundation Dissertation Grant ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (spring 2022)
+-Center for Teaching Innovation Graduate Teaching Fellowship, Cornell University (2022-2023)
+-Graduate Teaching Assistant – Outstanding Service Award 2021, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
+-Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
+
+- **Special Committee:** Professors Ravi Kanbur, Chris Forman, Seth Sanders, and Dan Black (University of Chicago)
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
