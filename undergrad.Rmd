@@ -1,0 +1,35 @@
+---
+title: " "
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'undergrad.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>About me</h1> </center>
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+In my spare time, I run, together with other graduate students, [Community Based Project Evaluation (CBPE) group](www.cbpegroup.com), a graduate student organization that has been providing voluntary statistical evaluation of programs administered by local nonprofits for over two years. Additionally, when I am not doing research, I teach dance.
+ 
+<center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<hr style="border:0.5px solid gray">
+
+<center>
+I have put together [resources here](https://docs.google.com/document/d/1aoryUTNnxxi_7e1q-mqYrkwfWZHiEQYqLbNbwZR1AAg/) on ways to help Ukrainian civilians if you are in the US.
+<center>
+
+
