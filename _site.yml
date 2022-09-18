@@ -1,7 +1,7 @@
 name: "anna-(ganna)-malinovskaya"
 output_dir: "docs"
 navbar:
-  title: "My name"
+  title: "Anna (Ganna) Malinovskaya"
   left:
     - text: "Home"
       href: index.html
@@ -9,6 +9,8 @@ navbar:
       href: phd.html
     - text: "About me"
       href: undergrad.html
+    - text: "Teaching"
+      href: teaching.html
 
   right:
     - icon: fa-envelope fa-lg
