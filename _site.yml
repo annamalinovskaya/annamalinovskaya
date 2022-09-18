@@ -1,0 +1,24 @@
+name: "anna-(ganna)-malinovskaya"
+output_dir: "docs"
+navbar:
+  title: "My name"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "CV"
+      href: phd.html
+    - text: "About me"
+      href: undergrad.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact_info.html
+    - icon: fa-github fa-lg
+      href: https://github.com/annamalinovskaya
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/annamalinovskaya
+      
+output:
+  html_document:
+    theme: journal
+    css: styles.css
