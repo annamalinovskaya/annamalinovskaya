@@ -12,7 +12,7 @@ output:
     css: "style.css"
 ---
 
-<center> <h1>Anna Malinovskaya</h1> </center>
+<center> <h1>Anna (Ganna) Malinovskaya</h1> </center>
 
 <center>
 Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)   
