@@ -4,7 +4,7 @@ navbar:
   title: "Anna (Ganna) Malinovskaya"
   left:
     - text: "Home"
-      href: index.html
+      href: home.html
     - text: "CV"
       href: CV.html
     - text: "Research"
@@ -15,11 +15,11 @@ navbar:
       href: AboutMe.html
 
   right:
-    - icon: fa-envelope fa-lg
+    - icon: fas fa-envelope fas-lg
       href: contact_info.html
-    - icon: fa-github fa-lg
+    - icon: fab fa-github fab-lg
       href: https://github.com/annamalinovskaya/
-    - icon: fa-linkedin fa-lg
+    - icon: fab fa-linkedin-in
       href: https://www.linkedin.com/in/annamalinovskaya
       
 output:
