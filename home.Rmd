@@ -1,0 +1,60 @@
+---
+title: " "
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'home.html'))})
+layout: default
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+<center> <h1>Anna (Ganna) Malinovskaya</h1> </center>
+
+<center>
+Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)   
+*Pronouns:* She/her/hers    
+[Pronouncing my name](https://namedrop.io/annamalinovskaya)     
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+<img src="photo_of_me.png" style="width:20%;
+border:1px solid; border-color:black">
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center>
+My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my Job Market Paper, I am studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy. I am also studying the long-term human capital impacts of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.
+</center>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://amgithub.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/amgithub.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+

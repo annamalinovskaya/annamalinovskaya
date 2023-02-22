@@ -1,0 +1,135 @@
+---
+title: " "
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'CV.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+#### Education ####
+
+Doctor of Philosophy: Applied Economics & Management (Expected 2024)   
+Cornell University, Ithaca, NY 
+
+Master of Science: Applied Economics & Management (2020)    
+Cornell University, Ithaca, NY 
+
+Bachelor of Arts: Mathematics & Economics (2014)    
+Mount Holyoke College, South Hadley, MA
+
+#### Research Interests ####
+
+**_Primary_**: Public Economics & Applied Econometrics 
+
+**_Secondary_**: Economics & Indigenous peoples
+
+#### Special Committee ####
+
+Ravi Kanbur, Chris Forman, Seth Sanders, and Dan Black (University of Chicago)
+
+#### Research Experience ####
+
+**_Graduate Research Assistant to_** 
+
+Dr. Seth Sanders (Cornell University, spring 2022-)   
+
+Dr. Bradley Rickard (Cornell University, summers 2020-2022) 
+
+Dr. Ariel Ortiz-Bobea (Cornell University, spring 2020) 
+
+Dr. Jennifer Ifft (Cornell University, fall 2019)
+
+**_Other Research Experience_**
+
+[**_Senior Research Assistant_**, Brookings Institution](https://www.brookings.edu/author/anna-malinovskaya/) (Hutchins Center on Fiscal & Monetary Policy), Washington DC (Jan. 2016 - July 2017)
+
+[**_Research Assistant_**, Resources for the Future](https://www.rff.org/publications/working-papers/expected-versus-actual-outcomes-of-environmental-policies-the-clean-water-state-revolving-fund/), Washington DC (May 2014 - Dec. 2015)
+
+#### Awards & Honors ####
+
+[Russell Sage Foundation Dissertation Grant](https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us) ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (spring 2022)
+
+Center for Teaching Innovation Graduate Teaching Fellowship ($2,000), Cornell University (2022-2023)
+
+Graduate Teaching Assistant – Outstanding Service Award 2021, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
+
+Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
+
+#### Selected Work in Progress ####
+
+**_Dissertation research_** 
+
+“Own and dynamic complementarity long-term educational effects of the WIC program”. 
+
+“COVID-driven technology adoption and worker inequality in the US”, with Bledi Taska.
+
+**_Other research_**
+
+“Destination categories, store choice, and beer distribution laws”, with Bradley Rickard and Timothy Richards. 
+
+“[Understanding the Native American tribal disenrollment epidemic: An IV approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116)”
+
+#### Peer Reviewed Publications ####
+
+“[Energy income and farm viability: Evidence from USDA farm survey data](https://www.sciencedirect.com/science/article/abs/pii/S0301421521001737)”, with Travis Grout and Jennifer Ifft, Energy Policy, Volume 155, August 2021.
+
+“[Distribution of emissions allowances and the use of auction revenues in the European Union Emissions Trading System](https://www.journals.uchicago.edu/doi/10.1093/reep/rey012)”, with Åsa Löfgren, Dallas Burtraw, and Markus Wråke, Review of Environmental Economics and Policy 12(2), 2018.
+
+#### Conferences ####
+
+**_Presenter_**
+
+Association for Public Policy Analysis and Management (APPAM) Annual Conference, 2020 
+
+Applied Geography Conference, 2020 
+
+Population Association of America (PAA) Annual Meeting, 2021 
+
+**_Discussant_** 
+
+Governance, Liberty, and Prosperity for American Indians Workshop co-sponsored by the Hoover Institution, Stanford University and The Law and Economic Center, Antonin School of Law, George Mason University, and funded by the Searle Freedom Trust, 2021
+
+#### Activities ####
+
+Volunteer for the T. Merrill Shipherd Committee Board, Tompkins County United Way, Ithaca, NY (January 2020-)
+
+Certified Translator / Interpreter for the Translator-Interpreter Program, Cornell University Public Service Center (spring 2021-)
+
+#### Other ####
+
+Special Sworn Status preliminary approval (March 2021 - )
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://amgithub.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/amgithub.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
+
