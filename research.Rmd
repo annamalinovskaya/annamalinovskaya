@@ -17,6 +17,7 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
+
 ## Upcoming Invited Research Talks ##
 
 - #### "Long Term Own and Dynamic Complementarity Effects of the WIC Program" ####
@@ -45,7 +46,7 @@ This project has three objectives. The first objective is to provide more direct
 
 _A more detailed description of this project is available on the Russell Sage Foundation website [here](https://www.russellsage.org/sites/default/files/sample_drg_proposals.pdf)._ 
 
-#### 2.2 The COVID Pandemic and New Work ####
+#### 2.2 The COVID pandemic and new work ####
 
 This project uses proprietary Burning Glass Technologies data on millions of job postings in the US over 2007-2022 to identify new work creation activity by firms following the COVID pandemic. Specifically, we take the approach similar to Autor et al. (2022) and identify, at a very granular level, new job titles that appeared during and immediately after the pandemic, with a particular focus on several industries, such as healthcare. We then characterize the geographical, industry, and occupational distribution of this new work creation activity. We also evaluate the skill content of new work, as well as its educational and experience requirements, to understand whether it is expected to affect higher or lower skill workers. Finally, we link job postings by employer over time to evaluate whether younger firms are more likely to engage in new work creation. This project is part of a larger study that links Burning Glass Technologies data with restricted firm-level Census Bureau data to estimate the effect of COVID-driven technology adoption on US firm labor demand.
 
