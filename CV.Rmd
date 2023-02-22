@@ -108,6 +108,10 @@ Volunteer for the T. Merrill Shipherd Committee Board, Tompkins County United Wa
 
 Certified Translator / Interpreter for the Translator-Interpreter Program, Cornell University Public Service Center (spring 2021-)
 
+#### Software ####
+
+Stata, SAS, R, Python, Latex
+
 #### Other ####
 
 Special Sworn Status preliminary approval (March 2021 - )
