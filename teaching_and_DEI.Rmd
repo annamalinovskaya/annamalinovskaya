@@ -35,7 +35,7 @@ output:
 #### Teaching Philosophy ####   
 
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
-<span class="my-text">[Teaching Philosophy Statement](https://github.com/annamalinovskaya/annamalinovskaya/main/TPstatement_spring2023.pdf)</span>
+<span class="my-text">[Teaching Philosophy Statement](https://drive.google.com/file/d/1o8Ts93fMwGEAgpyVerM2-gk2lts54vYx/view?usp=sharing)</span>
 </p>
 
 #### Professional Development & Teaching ####   
