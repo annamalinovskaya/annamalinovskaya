@@ -19,30 +19,34 @@ output:
 <div style="margin-bottom:20px;">
 </div>
 
-#### Education ####
+### Education ###
 
-**_Doctor of Philosophy_**: Applied Economics & Management (Expected 2024)   
+##### _Doctor of Philosophy in Applied Economics & Management (Expected 2024)_ ##### 
 Cornell University, Ithaca, NY 
 
-**_Master of Science_**: Applied Economics & Management (2020)    
+##### _Master of Science in Applied Economics & Management (2020)_  #####  
 Cornell University, Ithaca, NY 
 
-**_Bachelor of Arts_**: Mathematics & Economics (2014)    
+##### _Bachelor of Arts in Mathematics & Economics (2014)_  #####
 Mount Holyoke College, South Hadley, MA
 
-#### Research Interests ####
+### Research Interests ###
 
-**_Primary_**: Public Economics & Applied Econometrics 
+##### _Primary_  #####
 
-**_Secondary_**: Economics & Indigenous peoples
+Public Economics & Applied Econometrics
 
-#### Special Committee ####
+##### _Secondary_  #####
+
+Economics & Indigenous peoples
+
+### Special Committee ###
 
 Ravi Kanbur, Chris Forman, Seth Sanders, and Dan Black (University of Chicago)
 
-#### Research Experience ####
+### Research Experience ###
 
-**_Graduate Research Assistant to_** 
+##### _Graduate Research Assistant to_ #####
 
 Dr. Seth Sanders (Cornell University, spring 2022-)   
 
@@ -52,45 +56,47 @@ Dr. Ariel Ortiz-Bobea (Cornell University, spring 2020)
 
 Dr. Jennifer Ifft (Cornell University, fall 2019)
 
-**_Other Research Experience_**
+##### _Other Research Experience_ #####
 
-[**_Senior Research Assistant_**, Brookings Institution](https://www.brookings.edu/author/anna-malinovskaya/) (Hutchins Center on Fiscal & Monetary Policy), Washington DC (Jan. 2016 - July 2017)
+[Senior Research Assistant, Brookings Institution](https://www.brookings.edu/author/anna-malinovskaya/) (Hutchins Center on Fiscal & Monetary Policy), Washington DC (Jan. 2016 - July 2017)
 
-[**_Research Assistant_**, Resources for the Future](https://www.rff.org/publications/working-papers/expected-versus-actual-outcomes-of-environmental-policies-the-clean-water-state-revolving-fund/), Washington DC (May 2014 - Dec. 2015)
+[Research Assistant, Resources for the Future](https://www.rff.org/publications/working-papers/expected-versus-actual-outcomes-of-environmental-policies-the-clean-water-state-revolving-fund/), Washington DC (May 2014 - Dec. 2015)
 
-#### Awards & Honors ####
+### Awards & Honors ###
 
 [Russell Sage Foundation Dissertation Grant](https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us) ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (spring 2022)
 
-Center for Teaching Innovation Graduate Teaching Fellowship ($2,000), Cornell University (2022-2023)
+[Center for Teaching Innovation Graduate Teaching Fellowship](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows) ($2,000), Cornell University (2022-2023)
 
 Graduate Teaching Assistant – Outstanding Service Award 2021, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
 
 Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
 
-#### Selected Work in Progress ####
+### Selected Work in Progress ###
 
-**_Dissertation research_** 
+##### _Dissertation Research_ #####
+
+"The effect of access to mental healthcare on teen and adolescent pregnancy" [JMP].
 
 “Own and dynamic complementarity long-term educational effects of the WIC program”. 
 
 “COVID-driven technology adoption and worker inequality in the US”, with Bledi Taska.
 
-**_Other research_**
+##### _Other Research_ #####
 
 “Destination categories, store choice, and beer distribution laws”, with Bradley Rickard and Timothy Richards. 
 
 “[Understanding the Native American tribal disenrollment epidemic: An IV approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116)”
 
-#### Peer Reviewed Publications ####
+### Peer Reviewed Publications ###
 
 “[Energy income and farm viability: Evidence from USDA farm survey data](https://www.sciencedirect.com/science/article/abs/pii/S0301421521001737)”, with Travis Grout and Jennifer Ifft, Energy Policy, Volume 155, August 2021.
 
 “[Distribution of emissions allowances and the use of auction revenues in the European Union Emissions Trading System](https://www.journals.uchicago.edu/doi/10.1093/reep/rey012)”, with Åsa Löfgren, Dallas Burtraw, and Markus Wråke, Review of Environmental Economics and Policy 12(2), 2018.
 
-#### Conferences ####
+### Selected Conferences ###
 
-**_Invited Presentations_**
+##### _Invited Presentations_ #####
 
 Association for Public Policy Analysis and Management (APPAM) Annual Conference, 2020 
 
@@ -98,21 +104,21 @@ Applied Geography Conference, 2020
 
 Population Association of America (PAA) Annual Meeting, 2021 
 
-**_Discussant_** 
+##### _Discussant_ ##### 
 
 Governance, Liberty, and Prosperity for American Indians Workshop co-sponsored by the Hoover Institution, Stanford University and The Law and Economic Center, Antonin School of Law, George Mason University, and funded by the Searle Freedom Trust, 2021
 
-#### Service ####
+### Service ###
 
 Volunteer for the T. Merrill Shipherd Committee Board, Tompkins County United Way, Ithaca, NY (January 2020-)
 
 Certified Translator / Interpreter for the Translator-Interpreter Program, Cornell University Public Service Center (spring 2021-)
 
-#### Software ####
+### Software ###
 
 Stata, SAS, R, Python, Latex
 
-#### Other ####
+### Other ###
 
 Special Sworn Status preliminary approval (March 2021 - )
 
