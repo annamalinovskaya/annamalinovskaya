@@ -9,8 +9,8 @@ navbar:
       href: CV.html
     - text: "Research"
       href: research.html
-    - text: "Teaching"
-      href: teaching.html
+    - text: "Teaching & DEI"
+      href: teaching_and_DEI.html
     - text: "About me"
       href: AboutMe.html
 

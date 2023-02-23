@@ -1,0 +1,75 @@
+---
+title: " "
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'teaching & DEI.html'))})
+output:
+  html_document:
+    df_print: paged
+    css: "style.css"
+---
+
+
+<div>
+<div style="margin-bottom:20px;">
+</div>
+
+<center> <h1></h1> </center>
+
+# Teaching #
+
+#### Graduate Teaching Experience ####
+
+- PAM 2350 The US Healthcare System (_fall 2018_)   
+- PAM 3110 Intermediate Policy Analysis (_spring 2019_)   
+- AEM 4110 Introduction to Econometrics (_fall 2020_)   
+  - _The resources I developed for this course can be accessed [here](https://sites.google.com/cornell.edu/econometric-exercises/)._
+- AEM 4060 / 6061 Risk Simulation and Monte Carlo Methods (_spring 2021_)   
+- AEM 3245 / 6245 Organizational Behavior (_fall 2021_)   
+- AEM 3320 / 6325 Leadership and Management in Sports (_fall 2021_)   
+- PAM 4240 / 5240 Risk Management and Policy (_fall 2021_)   
+  - _The resources I developed for this course can be accessed [here](https://sites.google.com/cornell.edu/pam5240resources/home)._   
+
+#### Teaching Philosophy ####   
+
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
+<span class="my-text">[Teaching Philosophy Statement](https://github.com/annamalinovskaya/annamalinovskaya/main/TPstatement_spring2023.pdf)</span>
+</p>
+
+#### Professional Development & Teaching ####   
+
+This academic year, I am a Fellow at Cornell’s [Center for Teaching Innovation](https://teaching.cornell.edu/) (CTI) co-leading [CTI’s annual workshops](https://teaching.cornell.edu/current-graduate-programming). 
+
++ In the fall of 2022, I co-led CTI's annual workshop on developing a Diversity Statement. 
++ In the spring of 2023, I am co-leading CTI's annual workshop on designing effective learning assessments. 
+
+<hr style="border:0.5px solid gray">
+
+<center> <h1></h1> </center>
+
+## Diversity, Equity & Inclusion ##
+
+- On March 24th, I am organizing & co-leading a workshop for faculty & graduate students on accessibility in STEM. 
+- On April 1st, I am co-leading a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the [Expanding Your Horizons](https://www.eyh.cornell.edu/index.php) conference at Cornell University.
+
+</div>
+<div style="margin-bottom:20px;">
+</div>
+
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://amgithub.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='//cdn.matomo.cloud/amgithub.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Matomo Code -->
