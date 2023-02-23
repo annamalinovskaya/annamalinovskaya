@@ -10,7 +10,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Teaching & DEI"
-      href: teaching_and_DEI.html
+      href: teachingAndDEI.html
     - text: "About me"
       href: AboutMe.html
 
