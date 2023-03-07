@@ -29,6 +29,8 @@ output:
   - _June 28_, U.S. Census Bureau FSRDC Presentation Series
  
   - _July 10_, Knowledge Share Workshop, Social, Economic, and Housing Statistics Division [SEHSD] of the U.S. Census Bureau
+  
+  - _August 2-3_, Data Intensive Research Conference, a collaboration between IPUMS and the University of Minnesota 
  
 - #### "The COVID Pandemic and New Work" ####
 

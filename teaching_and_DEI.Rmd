@@ -55,18 +55,10 @@ This academic year, I am a Fellow at Cornell’s [Center for Teaching Innovation
 - On March 24th, I am organizing & co-leading a workshop on accessibility in STEM for faculty & graduate students.
 - On April 1st, I am co-leading a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the [Expanding Your Horizons](https://www.eyh.cornell.edu/index.php) conference at Cornell University.
 
-</div>
-<div style="margin-bottom:0px;">
-</div>
-
 <center>
 <img src="flyer_v4_final.png" style="width:80%;
 border:1px solid; border-color:white">
 </center>
-
-</div>
-<div style="margin-bottom:20px;">
-</div>
 
 </div>
 <div style="margin-bottom:20px;">
