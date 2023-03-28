@@ -36,7 +36,7 @@ output:
 
 <p style="text-align: left;">
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
-<span class="my-text">[Teaching Philosophy Statement](https://drive.google.com/file/d/1o8Ts93fMwGEAgpyVerM2-gk2lts54vYx/view?usp=sharing)</span>
+<span class="my-text">[Teaching Philosophy Statement](https://github.com/annamalinovskaya/annamalinovskaya/blob/main/TPstatement_spring2023.pdf?raw=true)</span>
 </p>
 
 #### Professional Development & Teaching ####   
@@ -52,7 +52,10 @@ This academic year, I am a Fellow at Cornell’s [Center for Teaching Innovation
 
 ## Diversity, Equity & Inclusion ##
 
-- On March 24th, I am organizing & co-leading a workshop on accessibility in STEM for faculty & graduate students.
+- On March 24th, I co-organized & co-led a workshop on accessibility in STEM for faculty & graduate students.
+  - _The slides are available [here](https://docs.google.com/presentation/d/1r6h4OnGrFVzc2kq_xG7hEFsJfFJLq0M0O9-Hv3nhyn0/edit?usp=sharing)._
+  - _All workshop materials can be accessed [here](https://cornell.box.com/s/79l79clrlvd09uyy014so6im10ydp1o3)._
+
 - On April 1st, I am co-leading a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the [Expanding Your Horizons](https://www.eyh.cornell.edu/index.php) conference at Cornell University.
 
 <center>
@@ -63,6 +66,7 @@ border:1px solid; border-color:white">
 </div>
 <div style="margin-bottom:20px;">
 </div>
+
 
 <!-- Matomo -->
 <script>
