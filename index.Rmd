@@ -25,8 +25,8 @@ Ph.D. Candidate in [Applied Economics & Management at Cornell University](https:
 </div>
 
 <center>
-<img src="photo_of_me.png" style="width:20%;
-border:1px solid; border-color:black">
+<img src="photo_of_me.png" style="width:25%;
+border:1px solid; border-color:white">
 </center>
 
 </div>
