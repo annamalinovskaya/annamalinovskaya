@@ -12,34 +12,36 @@ output:
     css: "style.css"
 ---
 
-<center> <h1>Anna (Ganna) Malinovskaya</h1> </center>
+</div>
+<div style="margin-bottom:20px;">
+</div>
 
+::: columns
+::: {.column width="40%"}
+
+<center><h1>Anna (Ganna) Malinovskaya</h1> </center>
+<br>
 <center>
-Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)   
+Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)
 *Pronouns:* She/her/hers    
-[Pronouncing my name](https://namedrop.io/annamalinovskaya)     
+[Pronouncing my name](https://namedrop.io/annamalinovskaya)   
 </center>
-
-</div>
-<div style="margin-bottom:20px;">
-</div>
-
-<center>
-<img src="photo_of_me.jpg" style="width:33%;
-border:1px solid; border-color:white">
-</center>
-
-</div>
-<div style="margin-bottom:20px;">
-</div>
-
+<br>
+<br>
 <center>
 My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my Job Market Paper, I am studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy. I am also studying the long-term human capital impacts of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.
 </center>
 
-</div>
-<div style="margin-bottom:20px;">
-</div>
+:::
+
+::: {.column width="60%"}
+<center>
+<img src="photo_of_me.jpg" style="width:70%;
+border:1px solid; border-color:white">
+</center>
+:::
+:::
+
 
 
 <!-- Matomo -->
