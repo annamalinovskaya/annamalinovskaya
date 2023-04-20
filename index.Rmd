@@ -22,7 +22,8 @@ output:
 <center><h1>Anna (Ganna) Malinovskaya</h1> </center>
 <br>
 <center>
-Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)
+Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/) 
+
 *Pronouns:* She/her/hers    
 [Pronouncing my name](https://namedrop.io/annamalinovskaya)   
 </center>
@@ -36,7 +37,7 @@ My fields of specialization are Public Economics and Applied Econometrics. I am 
 
 ::: {.column width="60%"}
 <center>
-<img src="photo_of_me.jpg" style="width:70%;
+<img src="photo_of_me.jpg" style="width:65%;
 border:1px solid; border-color:white">
 </center>
 :::
