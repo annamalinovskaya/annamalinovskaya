@@ -17,8 +17,10 @@ output:
 </div>
 
 ::: columns
-::: {.column width="40%"}
-
+::: {.column width="50%"}
+<br>
+<br>
+<br>
 <center><h1>Anna (Ganna) Malinovskaya</h1> </center>
 <br>
 <center>
@@ -28,14 +30,16 @@ Ph.D. Candidate in [Applied Economics & Management at Cornell University](https:
 [Pronouncing my name](https://namedrop.io/annamalinovskaya)   
 </center>
 <br>
-<br>
 <center>
 My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my Job Market Paper, I am studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy. I am also studying the long-term human capital impacts of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.
 </center>
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
+<br>
+<br>
+<br>
 <center>
 <img src="photo_of_me.jpg" style="width:65%;
 border:1px solid; border-color:white">
@@ -43,6 +47,10 @@ border:1px solid; border-color:white">
 :::
 :::
 
+
+</div>
+<div style="margin-bottom:10px;">
+</div>
 
 
 <!-- Matomo -->
