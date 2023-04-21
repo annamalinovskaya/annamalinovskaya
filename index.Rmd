@@ -21,17 +21,18 @@ output:
 <br>
 <br>
 <br>
-<center><h1>Anna (Ganna) Malinovskaya</h1> </center>
+<center><h1><font size="7"> Anna (Ganna) Malinovskaya</h1></font> </center>
 <br>
 <center>
-Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)
+<font size="5">Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)</font> 
 
-*Pronouns:* She/her/hers    
-[Pronouncing my name](https://namedrop.io/annamalinovskaya)   
+<font size="5">*Pronouns:* She/her/hers</font>     
+<font size="5">[Pronouncing my name](https://namedrop.io/annamalinovskaya)</font>   
 </center>
 <br>
-<center>
-My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my Job Market Paper, I am studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy. I am also studying the long-term human capital impacts of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.
+<center> 
+<font size="4"> 
+My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my Job Market Paper, I am studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy. I am also studying the long-term human capital impacts of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.</font> 
 </center>
 
 :::
@@ -41,7 +42,7 @@ My fields of specialization are Public Economics and Applied Econometrics. I am 
 <br>
 <br>
 <center>
-<img src="photo_of_me.jpg" style="width:65%;
+<img src="photo_of_me.jpg" style="width:85%;
 border:1px solid; border-color:white">
 </center>
 :::
@@ -51,7 +52,6 @@ border:1px solid; border-color:white">
 </div>
 <div style="margin-bottom:10px;">
 </div>
-
 
 
 <!-- Matomo -->
