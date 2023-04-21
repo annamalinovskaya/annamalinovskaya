@@ -41,8 +41,10 @@ My fields of specialization are Public Economics and Applied Econometrics. I am 
 <br>
 <br>
 <br>
+<br>
+<br>
 <center>
-<img src="photo_of_me.jpg" style="width:85%;
+<img src="photo_of_me.jpg" style="width:90%;
 border:1px solid; border-color:white">
 </center>
 :::
