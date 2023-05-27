@@ -96,7 +96,7 @@ Serve in Place Grant (for a community service project) from Cornell University (
 
 ### Selected Invited Presentations ###
 
-Western Economic Association International (WEAI), 17th International Conference (2023); American Community Survey Data Users Conference, Population Reference Bureau (2023); Association for Public Policy Analysis and Management (APPAM) Annual Conference (2020); Population Association of America (PAA) Annual Meeting (2021).
+Western Economic Association International (WEAI), 17th International Conference (2023); American Community Survey Data Users Conference, Population Reference Bureau (2023); Population Association of America (PAA) Annual Meeting (2021); Association for Public Policy Analysis and Management (APPAM) Annual Conference (2020).
 
 ### Service ###
 
@@ -111,6 +111,8 @@ Stata, SAS, R, Python, Latex
 ### Other ###
 
 Special Sworn Status preliminary approval (March 2021 - )
+
+Languages: Ukrainian, Russian 
 
 </div>
 <div style="margin-bottom:20px;">
