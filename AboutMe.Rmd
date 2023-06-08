@@ -18,7 +18,7 @@ output:
 </div>
 
 <center>
-In my spare time, I run, together with other graduate students, [Community Based Project Evaluation (CBPE) group](https://cbpegroup.com/), a graduate student organization that has been providing voluntary statistical evaluation of programs administered by local nonprofits for over two years. Additionally, when I am not doing research, I teach dance.
+<font size="4"> In my spare time, I run, together with other graduate students, [Community Based Project Evaluation (CBPE) group](https://cbpegroup.com/), a graduate student organization that has been providing voluntary statistical evaluation of programs administered by local nonprofits for over two years. </font> 
  
 <center>
 
@@ -26,11 +26,6 @@ In my spare time, I run, together with other graduate students, [Community Based
 <div style="margin-bottom:20px;">
 </div>
 
-<hr style="border:0.5px solid gray">
-
-<center>
-I have put together [resources here](https://docs.google.com/document/d/1aoryUTNnxxi_7e1q-mqYrkwfWZHiEQYqLbNbwZR1AAg/) on ways to help Ukrainian civilians if you are in the US.
-<center>
 
 <!-- Matomo -->
 <script>
