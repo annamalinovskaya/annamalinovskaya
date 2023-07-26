@@ -40,7 +40,7 @@ output:
 <br>
 <center>
 <img src="photo_of_me.jpg" style="width:65%;
-border:3px solid; border-color:black">
+border:1.5px solid; border-color:black">
 </center>
 :::
 :::
