@@ -11,8 +11,7 @@ navbar:
       href: research.html
     - text: "Teaching & DEI"
       href: teachingAndDEI.html
-    - text: "About me"
-      href: AboutMe.html
+ 
 
   right:
     - icon: fas fa-envelope fas-lg

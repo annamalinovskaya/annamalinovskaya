@@ -58,15 +58,15 @@ Dr. Jennifer Ifft (Cornell University, fall 2019)
 
 ##### _Other Research Experience_ #####
 
-[Senior Research Assistant, Brookings Institution](https://www.brookings.edu/author/anna-malinovskaya/) (Hutchins Center on Fiscal & Monetary Policy), Washington DC (Jan. 2016 - July 2017)
+<a href="https://www.brookings.edu/author/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">Senior Research Assistant, Brookings Institution</a> (Hutchins Center on Fiscal & Monetary Policy), Washington DC (Jan. 2016 - July 2017)
 
-[Research Assistant, Resources for the Future](https://www.rff.org/publications/working-papers/expected-versus-actual-outcomes-of-environmental-policies-the-clean-water-state-revolving-fund/), Washington DC (May 2014 - Dec. 2015)
+<a href="https://www.rff.org/publications/working-papers/expected-versus-actual-outcomes-of-environmental-policies-the-clean-water-state-revolving-fund/" style="color: #8B0000; text-decoration: underline;">Research Assistant, Resources for the Future</a> Washington DC (May 2014 - Dec. 2015)
 
 ### Awards & Honors ###
 
-[Russell Sage Foundation Dissertation Grant](https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us) ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (spring 2022)
+<a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation Dissertation Grant</a> ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (spring 2022)
 
-[Center for Teaching Innovation Graduate Teaching Fellowship](https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows) ($2,000), Cornell University (2022-2023)
+<a href="https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation Graduate Teaching Fellowship</a> ($2,000), Cornell University (2022-2023)
 
 Graduate Teaching Assistant – Outstanding Service Award 2021, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
 
@@ -76,9 +76,9 @@ Serve in Place Grant (for a community service project) from Cornell University (
 
 ##### _Dissertation Research_ #####
 
-"The effect of access to mental healthcare on teen and adolescent pregnancy" [JMP].
+"The effect of access to mental healthcare on teen and adolescent pregnancy".
 
-“Own and dynamic complementarity long-term educational effects of the WIC program”. 
+“Long-term own and dynamic complementarity effects of the WIC program”. 
 
 “COVID-driven technology adoption and worker inequality in the US”, with Bledi Taska.
 
@@ -86,17 +86,17 @@ Serve in Place Grant (for a community service project) from Cornell University (
 
 “Destination categories, store choice, and beer distribution laws”, with Bradley Rickard and Timothy Richards. 
 
-“[Understanding the Native American tribal disenrollment epidemic: An IV approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116)”
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116" style="color: #8B0000; text-decoration: underline;">"Understanding the Native American tribal disenrollment epidemic: An IV approach"</a>
 
 ### Peer Reviewed Publications ###
 
-“[Energy income and farm viability: Evidence from USDA farm survey data](https://www.sciencedirect.com/science/article/abs/pii/S0301421521001737)”, with Travis Grout and Jennifer Ifft, Energy Policy, Volume 155, August 2021.
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421521001737" style="color: #8B0000; text-decoration: underline;">"Energy income and farm viability: Evidence from USDA farm survey data"</a>, with Travis Grout and Jennifer Ifft, Energy Policy, Volume 155, August 2021.
 
-“[Distribution of emissions allowances and the use of auction revenues in the European Union Emissions Trading System](https://www.journals.uchicago.edu/doi/10.1093/reep/rey012)”, with Åsa Löfgren, Dallas Burtraw, and Markus Wråke, Review of Environmental Economics and Policy 12(2), 2018.
+<a href="https://www.journals.uchicago.edu/doi/10.1093/reep/rey012" style="color: #8B0000; text-decoration: underline;">"Distribution of emissions allowances and the use of auction revenues in the European Union Emissions Trading System"</a>, with Åsa Löfgren, Dallas Burtraw, and Markus Wråke, Review of Environmental Economics and Policy 12(2), 2018.
 
 ### Selected Invited Presentations ###
 
-Western Economic Association International (WEAI), 17th International Conference (2023); American Community Survey Data Users Conference, Population Reference Bureau (2023); Population Association of America (PAA) Annual Meeting (2021); Association for Public Policy Analysis and Management (APPAM) Annual Conference (2020).
+U.S. Census Bureau FSRDC Presentation Series (2023) $\cdot \cdot \cdot$ Western Economic Association International (WEAI), 17th International Conference (2023) $\cdot \cdot \cdot$ American Community Survey Data Users Conference, Population Reference Bureau (2023) $\cdot \cdot \cdot$ Population Association of America (PAA) Annual Meeting (2021) $\cdot \cdot \cdot$ Association for Public Policy Analysis and Management (APPAM) Annual Conference (2020).
 
 ### Service ###
 

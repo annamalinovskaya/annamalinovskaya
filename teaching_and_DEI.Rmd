@@ -25,26 +25,26 @@ output:
 - PAM 2350 The US Healthcare System (_fall 2018_)   
 - PAM 3110 Intermediate Policy Analysis (_spring 2019_)   
 - AEM 4110 Introduction to Econometrics (_fall 2020_)   
-  - _The resources I developed for this course can be accessed [here](https://sites.google.com/cornell.edu/econometric-exercises/)._
+  - _The resources I developed for this course can be accessed <a href="https://sites.google.com/cornell.edu/econometric-exercises/" style="color: #8B0000; text-decoration: underline;">here</a>._
 - AEM 4060 / 6061 Risk Simulation and Monte Carlo Methods (_spring 2021_)   
 - AEM 3245 / 6245 Organizational Behavior (_fall 2021_)   
 - AEM 3320 / 6325 Leadership and Management in Sports (_fall 2021_)   
 - PAM 4240 / 5240 Risk Management and Policy (_fall 2021_)   
-  - _The resources I developed for this course can be accessed [here](https://sites.google.com/cornell.edu/pam5240resources/home)._   
+  - _The resources I developed for this course can be accessed <a href="https://sites.google.com/cornell.edu/pam5240resources/home" style="color: #8B0000; text-decoration: underline;">here</a>._   
 
 #### Teaching Philosophy ####   
 
 <p style="text-align: left;">
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
-<span class="my-text">[Teaching Philosophy Statement](https://github.com/annamalinovskaya/annamalinovskaya/blob/main/TPstatement_spring2023.pdf?raw=true)</span>
+<span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/TPstatement_spring2023.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Teaching Philosophy Statement</a></span>
 </p>
 
 #### Professional Development & Teaching ####   
 
-This academic year, I am a Fellow at Cornell’s [Center for Teaching Innovation](https://teaching.cornell.edu/) (CTI) co-leading [CTI’s annual workshops](https://teaching.cornell.edu/current-graduate-programming). 
+In the 2022-2023 academic year, I was a Fellow at Cornell’s <a href="https://teaching.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation</a> (CTI) co-leading <a href="https://teaching.cornell.edu/current-graduate-programming" style="color: #8B0000; text-decoration: underline;">CTI’s annual workshops</a>. 
 
 + In the fall of 2022, I co-led CTI's annual workshop on developing a Diversity Statement. 
-+ In the spring of 2023, I am co-leading CTI's annual workshop on designing effective learning assessments. 
++ In the spring of 2023, I co-led CTI's annual workshop on designing effective learning assessments. 
 
 <hr style="border:0.5px solid gray">
 
@@ -53,9 +53,9 @@ This academic year, I am a Fellow at Cornell’s [Center for Teaching Innovation
 ## Diversity, Equity & Inclusion ##
 
 - On March 24th, I co-organized & co-led a workshop on accessibility in STEM for faculty & graduate students.
-  - _The slides are available [here](https://docs.google.com/presentation/d/1r6h4OnGrFVzc2kq_xG7hEFsJfFJLq0M0O9-Hv3nhyn0/edit?usp=sharing)._
-  - _All workshop materials can be accessed [here](https://cornell.box.com/s/79l79clrlvd09uyy014so6im10ydp1o3)._ 
-- On April 1st, I am co-leading a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the [Expanding Your Horizons](https://www.eyh.cornell.edu/index.php) conference at Cornell University.
+  - _The slides are available <a href="https://docs.google.com/presentation/d/1r6h4OnGrFVzc2kq_xG7hEFsJfFJLq0M0O9-Hv3nhyn0/edit?usp=sharing" style="color: #8B0000; text-decoration: underline;">here</a>._
+  - _All workshop materials can be accessed <a href="https://cornell.box.com/s/79l79clrlvd09uyy014so6im10ydp1o3" style="color: #8B0000; text-decoration: underline;">here</a>._ 
+- On April 1st, I co-led a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the <a href="https://www.eyh.cornell.edu/index.php" style="color: #8B0000; text-decoration: underline;">Expanding Your Horizons</a> conference at Cornell University.
 
 <center>
 <img src="flyer_v4_final.png" style="width:70%;

@@ -21,12 +21,10 @@ output:
 ## Upcoming Invited Research Talks ##
 
 - #### "Long Term Own and Dynamic Complementarity Effects of the WIC Program" ####
- 
-  - _June 28_, U.S. Census Bureau FSRDC Presentation Series
- 
-  - _July 10_, Knowledge Share Workshop, Social, Economic, and Housing Statistics Division [SEHSD] of the U.S. Census Bureau
   
-  - _August 2-3_, Data Intensive Research Conference, a collaboration between IPUMS and the University of Minnesota 
+  - _August 3_, Data Intensive Research Conference, a collaboration between IPUMS and the University of Minnesota 
+  
+  - _August 8_, Knowledge Share Workshop, Social, Economic, and Housing Statistics Division [SEHSD] of the U.S. Census Bureau
   
 - #### "The effect of access to mental healthcare on teen and adolescent pregnancy" ####
   
@@ -34,7 +32,7 @@ output:
 
 ## Dissertation Research ##
 
-#### 1. The effect of access to mental healthcare on teen and adolescent pregnancy [JMP] ####
+#### 1. The effect of access to mental healthcare on teen and adolescent pregnancy ####
 
 There is a growing literature on the strong association between poor mental health during teenagehood and adolescence and early pregnancy, and although the association established in this literature is not causal, it nevertheless points to the possibility that poor mental health in teens and adolescents, if not addressed through access to appropriate mental healthcare, might lead to early pregnancy through an inconsistent use of contraception or risky sexual behaviors. In this project, I pursue several empirical approaches to analyze the effect of access to mental healthcare under Medicaid on teen and adolescent pregnancy incidence. In particular, in my analysis of adolescent pregnancy, I leverage a discrete break in Medicaid eligibility at age 19 and study the effect of losing access to mental healthcare services provided by Medicaid on adolescent girls’ chances of pregnancy in the short-term. By using detailed data on girls' mental health histories, I distinguish between the effect of losing access to mental healthcare from the effect of losing access to general healthcare and low-cost contraception. In my analysis of teen pregnancy, I use several instruments for the wait time a girl faces for starting mental health treatment under Medicaid and test the hypothesis that longer wait times for starting treatment lead to higher chances of teen pregnancy. Additionally, I use a regression discontinuity design to study the consequences of eliminating age limit for Medicaid coverage of emergency contraception when obtained over-the-counter in select states, overall and for a sub-population of young women with mental health histories. 
 
@@ -42,7 +40,7 @@ There is a growing literature on the strong association between poor mental heal
 
 This project has three objectives. The first objective is to provide more direct evidence than is currently available that technology adoption has a permanent upskilling effect, using granular firm-level data on technology adoption decisions and spending linked to the data on firm-level labor demand, with the identification strategy (instrumental variable) that addresses the endogeneity of firm technology adoption decisions and spending. For this purpose, I link rich Burning Glass Technologies data on millions of firm job postings to restricted firm-level Census Bureau data, and use firms' differential exposure to the COVID pandemic as an instrument for their technology spending. The second objective of this study is to examine in great detail the heterogeneity in the impacts of technology adoption on firm labor demand by type of technology. Understanding this heterogeneity might be crucial to understanding the potential impacts of _new_ technologies on the inequality among workers of different skill levels. Finally, the third objective is to provide first empirical evidence on new job task creation activity by firms. In particular, I use Natural Language Processing methods to identify, quantify, and characterize the distribution of, new job task creation activity by firms over the past 15 years. 
 
-_A more detailed description of this project is available on the Russell Sage Foundation website [here](https://www.russellsage.org/sites/default/files/sample_drg_proposals.pdf)._ 
+_A more detailed description of this project is available on the Russell Sage Foundation website <a href="https://www.russellsage.org/sites/default/files/sample_drg_proposals.pdf" style="color: #8B0000; text-decoration: underline;">here</a>._ 
 
 #### 2.2 The COVID pandemic and new work ####
 

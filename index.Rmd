@@ -24,29 +24,32 @@ output:
 <center><h1><font size="7"> Anna (Ganna) Malinovskaya</h1></font> </center>
 <br>
 <center>
-<font size="5">Ph.D. Candidate in [Applied Economics & Management at Cornell University](https://dyson.cornell.edu/)</font> 
+<font size="5"> Ph.D. Candidate in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management at Cornell University</a> </font> 
 
-<font size="5">*Pronouns:* She/her/hers</font>     
-<font size="5">[Pronouncing my name](https://namedrop.io/annamalinovskaya)</font>   
+
+<font size="4">*Pronouns:* She/her/hers</font>     
+<font size="4"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
 </center>
 <br>
-<center> 
-<font size="4"> 
-My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my Job Market Paper, I am studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy. I am also studying the long-term human capital impacts of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC) and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.</font> 
-</center>
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="40%"}
 <br>
 <br>
 <br>
 <center>
-<img src="photo_of_me.jpg" style="width:85%;
-border:1px solid; border-color:white">
+<img src="photo_of_me.jpg" style="width:65%;
+border:3px solid; border-color:black">
 </center>
 :::
 :::
+
+
+<center> 
+<font size="4"> 
+My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. I am currently studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy and the long-term human capital effects of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC). Additionally, I am studying the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.</font> 
+</center>
 
 
 </div>
