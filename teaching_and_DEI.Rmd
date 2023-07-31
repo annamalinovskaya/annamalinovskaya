@@ -20,6 +20,8 @@ output:
 
 # Teaching #
 
+- This fall (2023), I am co-teaching <a href="https://cirtl.net/event/creating-accessible-teaching-and-research-documents-in-stem/2023-11-17/" style="color: #8B0000; text-decoration: underline;">"Creating Accessible Teaching and Research Documents in STEM"</a> offered through the Center for the Integration of Research, Teaching and Learning (CIRTL). 
+
 #### Graduate Teaching Experience ####
 
 - PAM 2350 The US Healthcare System (_fall 2018_)   
