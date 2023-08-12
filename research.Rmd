@@ -19,12 +19,6 @@ output:
 
 
 ## Upcoming Invited Research Talks ##
-
-- #### "Long Term Own and Dynamic Complementarity Effects of the WIC Program" ####
-  
-  - _August 3_, Data Intensive Research Conference, a collaboration between IPUMS and the University of Minnesota 
-  
-  - _August 8_, Knowledge Share Workshop, Social, Economic, and Housing Statistics Division [SEHSD] of the U.S. Census Bureau
   
 - #### "The effect of access to mental healthcare on teen and adolescent pregnancy" ####
   
@@ -32,23 +26,44 @@ output:
 
 ## Dissertation Research ##
 
-#### 1. The effect of access to mental healthcare on teen and adolescent pregnancy ####
+#### 1. Long-term effects of the WIC program and policy multiplier effects of large-scale public programs ####
+
+The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) has been in effect since the 1970s. In this project, I use two identification strategies to estimate the average causal intend-to-treat effects of the WIC program on a range of children’s longer-term outcomes such as health, human capital, and economic self-sufficiency in adulthood. The first identification strategy exploits variation across counties and over time from WIC geographical roll-out in the 1970s. For this purpose, I match adult outcomes of individuals in the American Community Survey and Decennial Census 2000 born in the 1970s with their place of birth information in the Social Security Administration's Numident File and then with the historical data on WIC geographical spread across counties. I find positive and statistically significant health effects for blacks in adulthood. Additionally, I find positive and statistically significant well-being effects for whites driven by improvements in health and economic self-sufficiency, although those effects for whites are concentrated in counties that had high teenage pregnancy rates prior to WIC introduction.
+
+My second identification strategy uses a regression discontinuity design, which I implement by developing county priority rankings for WIC funding in their state mirroring the approach by officials from the state of Texas, who developed such priority rankings for Texas counties in the early 1970s, as indicated by archival records. The use of this second identification strategy enables me to test the assumption common in this literature that the historical roll-out of WIC was exogenous or nearly exogenous. 
+
+Finally, I study the dynamic complementarity effects of large-scale public programs and investments. In particular, I examine interaction effects
+
+- between WIC and Head Start
+- between WIC and school quality reforms
+- between WIC, Head Start, and school quality reforms
+- between WIC and SNAP
+- between SNAP and Head Start
+- between SNAP and school quality
+- between SNAP, Head Start, and school quality
+- between WIC, SNAP, Head Start, and school quality
+- between Medicaid and the programs above except for WIC (the reason for excluding WIC here is that the historical roll-out of Medicaid was nearly completed by 1970; WIC started spreading in 1974). 
+
+_A recent presentation of some of my findings is available here:_
+
+<p style="text-align: left;">
+<span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/DIRC_Malinovskaya_slides_final.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Long Term Effects of the WIC Program - Data Intensive Research Conference, August 2023</a></span>
+</p>
+
+#### 2. The effect of access to mental healthcare on teen and adolescent pregnancy ####
 
 There is a growing literature on the strong association between poor mental health during teenagehood and adolescence and early pregnancy, and although the association established in this literature is not causal, it nevertheless points to the possibility that poor mental health in teens and adolescents, if not addressed through access to appropriate mental healthcare, might lead to early pregnancy through an inconsistent use of contraception or risky sexual behaviors. In this project, I pursue several empirical approaches to analyze the effect of access to mental healthcare under Medicaid on teen and adolescent pregnancy incidence. In particular, in my analysis of adolescent pregnancy, I leverage a discrete break in Medicaid eligibility at age 19 and study the effect of losing access to mental healthcare services provided by Medicaid on adolescent girls’ chances of pregnancy in the short-term. By using detailed data on girls' mental health histories, I distinguish between the effect of losing access to mental healthcare from the effect of losing access to general healthcare and low-cost contraception. In my analysis of teen pregnancy, I use several instruments for the wait time a girl faces for starting mental health treatment under Medicaid and test the hypothesis that longer wait times for starting treatment lead to higher chances of teen pregnancy. Additionally, I use a regression discontinuity design to study the consequences of eliminating age limit for Medicaid coverage of emergency contraception when obtained over-the-counter in select states, overall and for a sub-population of young women with mental health histories. 
 
-#### 2.1 COVID-driven technology adoption and US firm labor demand ####
+#### 3.1 COVID-driven technology adoption and US firm labor demand ####
 
 This project has three objectives. The first objective is to provide more direct evidence than is currently available that technology adoption has a permanent upskilling effect, using granular firm-level data on technology adoption decisions and spending linked to the data on firm-level labor demand, with the identification strategy (instrumental variable) that addresses the endogeneity of firm technology adoption decisions and spending. For this purpose, I link rich Burning Glass Technologies data on millions of firm job postings to restricted firm-level Census Bureau data, and use firms' differential exposure to the COVID pandemic as an instrument for their technology spending. The second objective of this study is to examine in great detail the heterogeneity in the impacts of technology adoption on firm labor demand by type of technology. Understanding this heterogeneity might be crucial to understanding the potential impacts of _new_ technologies on the inequality among workers of different skill levels. Finally, the third objective is to provide first empirical evidence on new job task creation activity by firms. In particular, I use Natural Language Processing methods to identify, quantify, and characterize the distribution of, new job task creation activity by firms over the past 15 years. 
 
 _A more detailed description of this project is available on the Russell Sage Foundation website <a href="https://www.russellsage.org/sites/default/files/sample_drg_proposals.pdf" style="color: #8B0000; text-decoration: underline;">here</a>._ 
 
-#### 2.2 The COVID pandemic and new work ####
+#### 3.2 The COVID pandemic and new work ####
 
 This project uses proprietary Burning Glass Technologies data on millions of job postings in the US over 2007-2022 to identify new work creation activity by firms following the COVID pandemic. Specifically, we take the approach similar to Autor et al. (2022) and identify, at a very granular level, new job titles that appeared during and immediately after the pandemic, with a particular focus on several industries, such as healthcare. We then characterize the geographical, industry, and occupational distribution of this new work creation activity. We also evaluate the skill content of new work, as well as its educational and experience requirements, to understand whether it is expected to affect higher or lower skill workers. Finally, we link job postings by employer over time to evaluate whether younger firms are more likely to engage in new work creation. This project is part of a larger study that links Burning Glass Technologies data with restricted firm-level Census Bureau data to estimate the effect of COVID-driven technology adoption on US firm labor demand.
 
-#### 3. Long-term own and dynamic complementarity effects of the WIC program ####
-
-The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) has been in effect since the 1970s. In this project, I use two identification strategies to estimate the average causal intend-to-treat effects of the WIC program on a range of children’s longer-term outcomes such as educational attainment and economic self-sufficiency in adulthood. The first identification strategy exploits variation across counties and over time from WIC geographical roll-out in the 1970s. For this purpose, I match adult outcomes of individuals in the American Community Survey and Decennial Census 2000 born in the 1970s with their place of birth information in the Social Security Administration's Numident File and then with the historical data on WIC geographical spread across counties. I zoom in on the outcomes of individuals who were most likely eligible for WIC at birth by linking adults in Census 2000 and ACS with their mothers in SIPP. My preliminary findings from the analysis conducted on each of the two samples (ACS and Census) separately are strikingly similar and indicate that exposure to WIC in-utero raises, on average, the probability of graduating from high school and enrolling in college, with the biggest effects for white males. The second identification strategy uses a regression discontinuity design, which I implement by developing county priority rankings for WIC funding in their state mirroring the approach by officials from the state of Texas, who developed such priority rankings for Texas counties in the early 1970s, as indicated by archival records. The use of this second identification strategy enables me to test the assumption common in this literature that the historical roll-out of WIC was exogenous or nearly exogenous. Finally, I study the dynamic complementarity effects of WIC on one hand and Head Start and school quality reforms on the other.
 
 </div>
 <div style="margin-bottom:20px;">
