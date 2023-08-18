@@ -28,21 +28,7 @@ output:
 
 #### 1. Long-term effects of the WIC program and policy multiplier effects of large-scale public programs ####
 
-The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) has been in effect since the 1970s. In this project, I use two identification strategies to estimate the average causal intend-to-treat effects of the WIC program on a range of children’s longer-term outcomes such as health, human capital, and economic self-sufficiency in adulthood. The first identification strategy exploits variation across counties and over time from WIC geographical roll-out in the 1970s. For this purpose, I match adult outcomes of individuals in the American Community Survey and Decennial Census 2000 born in the 1970s with their place of birth information in the Social Security Administration's Numident File and then with the historical data on WIC geographical spread across counties. I find positive and statistically significant health effects for blacks in adulthood. Additionally, I find positive and statistically significant well-being effects for whites driven by improvements in health and economic self-sufficiency, although those effects for whites are concentrated in counties that had high teenage pregnancy rates prior to WIC introduction.
-
-My second identification strategy uses a regression discontinuity design, which I implement by developing county priority rankings for WIC funding in their state mirroring the approach by officials from the state of Texas, who developed such priority rankings for Texas counties in the early 1970s, as indicated by archival records. The use of this second identification strategy enables me to test the assumption common in this literature that the historical roll-out of WIC was exogenous or nearly exogenous. 
-
-Finally, I study the dynamic complementarity effects of large-scale public programs and investments. In particular, I examine interaction effects
-
-- between WIC and Head Start
-- between WIC and school quality reforms
-- between WIC, Head Start, and school quality reforms
-- between WIC and SNAP
-- between SNAP and Head Start
-- between SNAP and school quality
-- between SNAP, Head Start, and school quality
-- between WIC, SNAP, Head Start, and school quality
-- between Medicaid and the programs above except for WIC (the reason for excluding WIC here is that the historical roll-out of Medicaid was nearly completed by 1970; WIC started spreading in 1974). 
+The Special Supplemental Nutrition Program for Women, Infants, and Children (WIC) has been in effect since the 1970s. In this project, I use two identification strategies to estimate the average causal intend-to-treat effects of the WIC program on a range of children’s longer-term outcomes such as health, human capital, and economic self-sufficiency in adulthood. The first identification strategy exploits variation across counties and over time from WIC geographical roll-out in the 1970s. For this purpose, I match adult outcomes of individuals in the American Community Survey and Decennial Census 2000 born in the 1970s with their place of birth information in the Social Security Administration's Numident File and then with the historical data on WIC geographical spread across counties. I find positive and statistically significant health effects for blacks in adulthood. Additionally, I find positive and statistically significant well-being effects for whites driven by improvements in health and economic self-sufficiency, in counties that had high teenage pregnancy rates prior to WIC introduction.My second identification strategy uses a regression discontinuity design, which I implement by developing county priority rankings for WIC funding in their state mirroring the approach by officials from the state of Texas, who developed such priority rankings for Texas counties in the early 1970s, as indicated by archival records. The use of this second identification strategy enables me to test the assumption common in this literature that the historical roll-out of WIC was exogenous or nearly exogenous. Finally, I study the dynamic complementarity effects of large-scale public programs and investments. In particular, I examine interaction effects between WIC and Head Start, between SNAP and Head Start, between SNAP and school quality reforms, between Medicaid and other programs, and some other program interactions. 
 
 _A recent presentation of some of my findings is available here:_
 
