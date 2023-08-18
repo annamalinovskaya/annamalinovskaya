@@ -26,9 +26,10 @@ output:
 <center>
 <font size="5"> Ph.D. Candidate in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management at Cornell University</a> </font> 
 
-
-<font size="4">*Pronouns:* She/her/hers</font>     
 <font size="4"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
+
+<font size="4"> 
+My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my job market paper, I am studying the long-term effects of exposure to the WIC program in chidhood and the interaction effects of large-scale public programs. In my other dissertation research, I am investigating the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.</font> 
 </center>
 <br>
 
@@ -39,17 +40,11 @@ output:
 <br>
 <br>
 <center>
-<img src="photo_of_me.jpg" style="width:65%;
-border:1.5px solid; border-color:black">
+<img src="photo_of_me.png" style="width:90%;
+border:1.5px solid; border-color:white">
 </center>
 :::
 :::
-
-
-<center> 
-<font size="4"> 
-My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. I am currently studying the effect of access to mental healthcare under Medicaid on preventing teen and adolescent pregnancy and the long-term human capital effects of the Special Supplemental Nutrition Program for Women, Infants and Children (WIC). Additionally, I am studying the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.</font> 
-</center>
 
 
 </div>
