@@ -17,7 +17,7 @@ output:
 </div>
 
 ::: columns
-::: {.column width="50%"}
+::: {.column width="60%"}
 <br>
 <br>
 <br>
@@ -30,7 +30,11 @@ output:
 <font size="4"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
 
 <font size="4"> 
-My fields of specialization are Public Economics and Applied Econometrics. I am particularly interested in the economics of human capital accumulation and the interactions of human capital accumulation with policy. In my job market paper, I am studying the long-term effects of exposure to the WIC program in childhood and the interaction effects of large-scale public programs. In my other dissertation research, I am investigating the effect of access to mental health care under Medicaid on preventing teen and adolescent pregnancy and the effects of COVID-driven technology adoption on firms' demand for certain skills and experience levels in the US labor market. I will be on the job market in the 2023-2024 academic year.</font> 
+My primary research interests lie at the intersection of Public Economics and Applied Econometrics. I am particularly interested in studying how public policy in the US can better serve low-income and marginalized populations, especially how interactions among public policies can directly or indirectly help facilitate human capital accumulation for such populations. I am especially interested in using microdata and rigorous research methods - robust quasi-experimental research designs - for this purpose.
+
+In my job market paper, I am using multiple quasi-experimental research designs to study not only whether the effects of exposure to a large-scale public program in childhood persist through adulthood, but also whether exposure to multiple public programs, even from different domains (for example, a nutritional intervention early in life followed by an educational intervention later in childhood) can lead to “multiplier” effects - that is, when the combined positive effect of exposure to the two programs is larger than the sum of the effects of exposure to each of the two programs on their own. I believe that this newly gained knowledge could shift public policy thinking in the US in a new direction by encouraging policy makers to think about various public policies as elements of a single whole rather than disjoint pieces. By treating different public programs as elements of a single whole, policy makers could then work on making various public programs fit together better, in order to maximize human capital accumulation effects, not of any particular public program, but of the entire package of all relevant policies, i.e., public policy as a whole.
+
+In my other dissertation research, I am continuing this theme of whether human capital accumulation for low income populations can be supported by combining public policies that are currently seen by policy makers as disjoint unrelated pieces. In particular, I am using several quasi-experimental research designs to study whether combining expansion of access to mental healthcare for teenage and adolescent girls with expansion of access to family planning services can help them delay or avoid early pregnancy, thus facilitating human capital accumulation for young women.</font> 
 </center>
 
 <br>
@@ -42,7 +46,7 @@ My fields of specialization are Public Economics and Applied Econometrics. I am 
 <br>
 <br>
 <center>
-<img src="photo_of_me.png" style="width:95%;
+<img src="photo_of_me.png" style="width:120%;
 border:1.5px solid; border-color:white">
 </center>
 :::
