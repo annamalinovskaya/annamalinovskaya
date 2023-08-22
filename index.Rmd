@@ -13,7 +13,7 @@ output:
 ---
 
 </div>
-<div style="margin-bottom:20px;">
+<div style="margin-bottom:0px;">
 </div>
 
 ::: columns
@@ -21,7 +21,7 @@ output:
 <br>
 <br>
 <br>
-<center><h1><font size="7"> Anna (Ganna) Malinovskaya</h1></font> </center>
+<center><h1><font size="6"> Anna (Ganna) Malinovskaya</h1></font> </center>
 <br>
 <center>
 <font size="5"> Ph.D. Candidate in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management</a> at the SC Johnson College of Business, Cornell University </font> 
