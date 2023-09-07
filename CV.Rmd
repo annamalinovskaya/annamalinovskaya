@@ -68,7 +68,7 @@ Graduate Teaching Assistant – Outstanding Service Award 2021, Dyson School of 
 
 Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
 
-### Selected Work in Progress ###
+### Selected Research in Progress ###
 
 ##### _Dissertation Research_ #####
 
@@ -78,11 +78,13 @@ Serve in Place Grant (for a community service project) from Cornell University (
 
 “COVID-driven technology adoption and worker inequality in the US”, with Bledi Taska.
 
+ + Census Bureau Technical Note on constructing a crosswalk between private Lightcast (Burning Glass Technologies) job postings data and Census Bureau's restricted firm microdata, with Bryan Stuart.
+
 ##### _Other Research_ #####
 
-“Destination categories, store choice, and beer distribution laws”, with Bradley Rickard and Timothy Richards. 
+“Native American tribal enrollment: What can be learned from over 20 years of data”, with Elijah Moreno.  
 
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116" style="color: #8B0000; text-decoration: underline;">"Understanding the Native American tribal disenrollment epidemic: An IV approach"</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116" style="color: #8B0000; text-decoration: underline;">"Understanding the Native American tribal disenrollment epidemic: An IV approach"</a>, with Elijah Moreno. 
 
 ### Peer Reviewed Publications ###
 
