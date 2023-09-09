@@ -43,7 +43,7 @@ output:
 
 #### Teaching Interests ####   
 
-Principles of Microeconomics (UG), Intermediate Microeconomics (UG), Econometrics (UG, G), Causal Identification in Policy Studies (UG, G), Social Policy (UG, G), Social Welfare Policy (UG, G), Economic Models and US Social Policy (UG, G), Social Program Evaluation in the US Context (UG, G), Indigenous Peoples in Today’s US Economy (UG, G), Children and Adolescents in US Social Policy (UG, G), Medicaid Policy (UG, G)
+Principles of Microeconomics (UG), Intermediate Microeconomics (UG), Econometrics (UG, G), Causal Identification in Policy Studies (UG, G), Social Policy (UG, G), Social Welfare Policy (UG, G), Economic Models and US Social Policy (UG, G), Social Program Evaluation in the US Context (UG, G), Indigenous Peoples in Today’s US Economy (UG, G), Children and Adolescents in US Social Policy (UG, G), US Mental Health Care Policy toward Children & Adolescents (UG, G)
 
 #### Professional Development & Teaching ####   
 
