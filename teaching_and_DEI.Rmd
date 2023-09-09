@@ -41,6 +41,10 @@ output:
 <span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/TPstatement_spring2023.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Teaching Philosophy Statement</a></span>
 </p>
 
+#### Teaching Interests ####   
+
+Principles of Microeconomics (UG), Intermediate Microeconomics (UG), Econometrics (UG, G), Causal Identification in Policy Studies (UG, G), Social Policy (UG, G), Social Welfare Policy (UG, G), Economic Models and US Social Policy (UG, G), Social Program Evaluation in the US Context (UG, G), Indigenous Peoples in Today’s US Economy (UG, G), Children and Adolescents in US Social Policy (UG, G), Medicaid Policy (UG, G)
+
 #### Professional Development & Teaching ####   
 
 In the 2022-2023 academic year, I was a Fellow at Cornell’s <a href="https://teaching.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation</a> (CTI) co-leading <a href="https://teaching.cornell.edu/current-graduate-programming" style="color: #8B0000; text-decoration: underline;">CTI’s annual workshops</a>. 
