@@ -36,7 +36,8 @@ Public Economics & Applied Microeconomics; Economics & Indigenous peoples
 
 ### Special Committee ###
 
-Ravi Kanbur, Chris Forman, Seth Sanders, and Dan Black (University of Chicago)
+Dr. <a href="https://publicpolicy.cornell.edu/people/seth-sanders/" style="color: #8B0000; text-decoration: underline;">Seth Sanders</a> _(co-chair)_, Dr. <a href="https://www.kanbur.dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Ravi Kanbur</a> _(co-chair)_, Dr. 
+<a href="https://dyson.cornell.edu/faculty-research/faculty/cmf257/" style="color: #8B0000; text-decoration: underline;">Chris Forman</a>, and Dr. <a href="https://harris.uchicago.edu/directory/dan-black" style="color: #8B0000; text-decoration: underline;">Dan Black</a> _(University of Chicago)_
 
 ### Research Experience ###
 
@@ -64,23 +65,21 @@ Dr. Jennifer Ifft (Cornell University, fall 2019)
 
 <a href="https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation Graduate Teaching Fellowship</a> ($2,000), Cornell University (2022-2023)
 
-Graduate Teaching Assistant – Outstanding Service Award 2021, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
+<a href="https://dyson.cornell.edu/programs/graduate/awards/" style="color: #8B0000; text-decoration: underline;">Graduate Teaching Assistant – Outstanding Service Award 2021</a>, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
 
 Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
 
 ### Selected Research in Progress ###
 
-##### _Dissertation Research_ #####
+“Long-term effects of the WIC program and interaction effects of large-scale public programs”. 
 
 "The effect of access to mental healthcare on teen and adolescent pregnancy".
 
-“Long-term effects of the WIC program and interaction effects of large-scale public programs”. 
+“COVID-driven technology adoption and worker inequality in the US”, with <a href="https://scholar.google.com/citations?user=s7UfVc0AAAAJ&hl=en" style="color: #8B0000; text-decoration: underline;">Bledi Taska</a>.
 
-“COVID-driven technology adoption and worker inequality in the US”, with Bledi Taska.
-
- + Census Bureau Technical Note on constructing a crosswalk between private Lightcast (Burning Glass Technologies) job postings data and Census Bureau's restricted firm microdata, with Bryan Stuart.
-
-##### _Other Research_ #####
+ + Census Bureau Technical Note on constructing a crosswalk between private Lightcast (Burning Glass Technologies) job postings data and Census Bureau's restricted firm microdata, with <a href="https://www.philadelphiafed.org/our-people/bryan-stuart" style="color: #8B0000; text-decoration: underline;">Bryan Stuart</a>.
+ 
+A study of the effects of education on mortality, with <a href="https://www.iza.org/people/affiliates/21739/ciprian-domnisoru" style="color: #8B0000; text-decoration: underline;">Ciprian Domnisoru</a> and <a href="https://eller.arizona.edu/people/evan-j-taylor" style="color: #8B0000; text-decoration: underline;">Evan Taylor</a>. 
 
 “Native American tribal enrollment: What can be learned from over 20 years of data”, with Elijah Moreno.  
 
@@ -110,19 +109,31 @@ Association for Public Policy Analysis and Management (APPAM) Annual Conference 
 
 ### Service ###
 
-Volunteer for the T. Merrill Shipherd Committee Board, Tompkins County United Way, Ithaca, NY (January 2020-)
+Workshop Leader, <a href="https://www.eyh.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Expanding Your Horizons Conference</a>, Cornell University, Ithaca, NY (2023)
+
+Volunteer for the Community Investment Committee / T. Merrill Shipherd Committee Board, Tompkins County United Way, Ithaca, NY (January 2020-)
+
+Various Roles, Community-Based Project Evaluation Group (CBPE), Cornell University, Ithaca, NY (May 2020-)
 
 Certified Translator / Interpreter for the Translator-Interpreter Program, Cornell University Public Service Center (spring 2021-)
 
+### Mentorship ###
+
+Peer Mentor to three first-year PhD students through the Applied Economics & Management Buddy Program, Cornell University, 2021-2023
+
+Mentee with the <a href="https://econmentoring.org/mentee-2022/" style="color: #8B0000; text-decoration: underline;">Association for Mentoring & Inclusion in Economics</a>, 2022-2023
+
 ### Software ###
 
-Stata, SAS, R, Python, Latex
+Stata, SAS, R, Python, $\LaTeX$
 
 ### Other ###
 
 Special Sworn Status preliminary approval (March 2021 - )
 
-Languages: Ukrainian, Russian 
+Languages: English _(fluent)_, Ukrainian _(heritage speaker)_, Russian _(fluent)_
+
++ IELTS General Test, Overall Band Score: 9.0/9.0 (April, 2022)
 
 </div>
 <div style="margin-bottom:20px;">
