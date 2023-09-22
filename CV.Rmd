@@ -39,6 +39,46 @@ Public Economics & Applied Microeconomics; Economics & Indigenous peoples
 Dr. <a href="https://publicpolicy.cornell.edu/people/seth-sanders/" style="color: #8B0000; text-decoration: underline;">Seth Sanders</a> _(co-chair)_, Dr. <a href="https://www.kanbur.dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Ravi Kanbur</a> _(co-chair)_, Dr. 
 <a href="https://dyson.cornell.edu/faculty-research/faculty/cmf257/" style="color: #8B0000; text-decoration: underline;">Chris Forman</a>, and Dr. <a href="https://harris.uchicago.edu/directory/dan-black" style="color: #8B0000; text-decoration: underline;">Dan Black</a> _(University of Chicago)_
 
+### Selected Research in Progress ###
+
+“Long-term effects of the WIC program and interaction effects of large-scale public programs”. 
+
+"The effect of access to mental healthcare on teen and adolescent pregnancy".
+
+“COVID-driven technology adoption and worker inequality in the US”, with <a href="https://scholar.google.com/citations?user=s7UfVc0AAAAJ&hl=en" style="color: #8B0000; text-decoration: underline;">Bledi Taska</a>.
+
+ + Census Bureau Technical Note on constructing a crosswalk between private Lightcast (Burning Glass Technologies) job postings data and Census Bureau's restricted firm microdata, with <a href="https://www.philadelphiafed.org/our-people/bryan-stuart" style="color: #8B0000; text-decoration: underline;">Bryan Stuart</a>.
+ 
+A study of the effects of education on mortality, with <a href="https://www.iza.org/people/affiliates/21739/ciprian-domnisoru" style="color: #8B0000; text-decoration: underline;">Ciprian Domnisoru</a> and <a href="https://eller.arizona.edu/people/evan-j-taylor" style="color: #8B0000; text-decoration: underline;">Evan Taylor</a>. 
+
+“Native American tribal enrollment: What can be learned from over 20 years of data”, with Elijah Moreno.  
+
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116" style="color: #8B0000; text-decoration: underline;">"Understanding the Native American tribal disenrollment epidemic: An IV approach"</a>, with Elijah Moreno. 
+
+"Destination categories, store choice, and beer distribution laws", with <a href="https://dyson.cornell.edu/faculty-research/faculty/bjr83/" style="color: #8B0000; text-decoration: underline;">Bradley Rickard</a> and <a href="https://search.asu.edu/profile/92424" style="color: #8B0000; text-decoration: underline;">Timothy Richards</a>. 
+
+### Peer Reviewed Publications ###
+
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421521001737" style="color: #8B0000; text-decoration: underline;">"Energy income and farm viability: Evidence from USDA farm survey data"</a>, with Travis Grout and Jennifer Ifft, Energy Policy, Volume 155, August 2021.
+
+<a href="https://www.journals.uchicago.edu/doi/10.1093/reep/rey012" style="color: #8B0000; text-decoration: underline;">"Distribution of emissions allowances and the use of auction revenues in the European Union Emissions Trading System"</a>, with Åsa Löfgren, Dallas Burtraw, and Markus Wråke, Review of Environmental Economics and Policy 12(2), 2018.
+
+### Other Publications ###
+
+<a href="https://www.brookings.edu/wp-content/uploads/2016/08/hp-lit-review_final.pdf" style="color: #8B0000; text-decoration: underline;">"Measuring Productivity in Healthcare: An Analysis of the Literature"</a>, with <a href="https://www.brookings.edu/people/louise-sheiner/" style="color: #8B0000; text-decoration: underline;">Louise Sheiner</a>, Brookings Institution Working Paper, May 2016.
+
+### Awards & Honors ###
+
+<a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth Doctoral Grant</a> ($15,000) for the project “Long-term own and dynamic complementarity effects of the WIC program” (2023)
+
+<a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation Dissertation Grant</a> ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (2022)
+
+<a href="https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation Graduate Teaching Fellowship</a> ($2,000), Cornell University (2022-2023)
+
+<a href="https://dyson.cornell.edu/programs/graduate/awards/" style="color: #8B0000; text-decoration: underline;">Graduate Teaching Assistant – Outstanding Service Award 2021</a>, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
+
+Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
+
 ### Research Experience ###
 
 ##### _Graduate Research Assistant to_ #####
@@ -56,40 +96,6 @@ Dr. Jennifer Ifft (Cornell University, fall 2019)
 <a href="https://www.brookings.edu/author/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">Senior Research Assistant, Brookings Institution</a> (Hutchins Center on Fiscal & Monetary Policy), Washington DC (Jan. 2016 - July 2017)
 
 <a href="https://www.rff.org/publications/working-papers/expected-versus-actual-outcomes-of-environmental-policies-the-clean-water-state-revolving-fund/" style="color: #8B0000; text-decoration: underline;">Research Assistant, Resources for the Future</a>, Washington DC (May 2014 - Dec. 2015)
-
-### Awards & Honors ###
-
-<a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth Doctoral Grant</a> ($15,000) for the project “Long-term own and dynamic complementarity effects of the WIC program” (2023)
-
-<a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation Dissertation Grant</a> ($10,000) for the project “COVID-driven technology adoption and worker inequality in the US” (2022)
-
-<a href="https://teaching.cornell.edu/grants-awards/graduate-students-postdoctoral-fellows" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation Graduate Teaching Fellowship</a> ($2,000), Cornell University (2022-2023)
-
-<a href="https://dyson.cornell.edu/programs/graduate/awards/" style="color: #8B0000; text-decoration: underline;">Graduate Teaching Assistant – Outstanding Service Award 2021</a>, Dyson School of Applied Economics & Management, Cornell University (spring 2021)
-
-Serve in Place Grant (for a community service project) from Cornell University (spring 2021)
-
-### Selected Research in Progress ###
-
-“Long-term effects of the WIC program and interaction effects of large-scale public programs”. 
-
-"The effect of access to mental healthcare on teen and adolescent pregnancy".
-
-“COVID-driven technology adoption and worker inequality in the US”, with <a href="https://scholar.google.com/citations?user=s7UfVc0AAAAJ&hl=en" style="color: #8B0000; text-decoration: underline;">Bledi Taska</a>.
-
- + Census Bureau Technical Note on constructing a crosswalk between private Lightcast (Burning Glass Technologies) job postings data and Census Bureau's restricted firm microdata, with <a href="https://www.philadelphiafed.org/our-people/bryan-stuart" style="color: #8B0000; text-decoration: underline;">Bryan Stuart</a>.
- 
-A study of the effects of education on mortality, with <a href="https://www.iza.org/people/affiliates/21739/ciprian-domnisoru" style="color: #8B0000; text-decoration: underline;">Ciprian Domnisoru</a> and <a href="https://eller.arizona.edu/people/evan-j-taylor" style="color: #8B0000; text-decoration: underline;">Evan Taylor</a>. 
-
-“Native American tribal enrollment: What can be learned from over 20 years of data”, with Elijah Moreno.  
-
-<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3949116" style="color: #8B0000; text-decoration: underline;">"Understanding the Native American tribal disenrollment epidemic: An IV approach"</a>, with Elijah Moreno. 
-
-### Peer Reviewed Publications ###
-
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S0301421521001737" style="color: #8B0000; text-decoration: underline;">"Energy income and farm viability: Evidence from USDA farm survey data"</a>, with Travis Grout and Jennifer Ifft, Energy Policy, Volume 155, August 2021.
-
-<a href="https://www.journals.uchicago.edu/doi/10.1093/reep/rey012" style="color: #8B0000; text-decoration: underline;">"Distribution of emissions allowances and the use of auction revenues in the European Union Emissions Trading System"</a>, with Åsa Löfgren, Dallas Burtraw, and Markus Wråke, Review of Environmental Economics and Policy 12(2), 2018.
 
 ### Selected Invited Presentations ###
 
