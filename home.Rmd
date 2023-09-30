@@ -30,7 +30,7 @@ output:
 
 <font size="2"> My fields of specialization are Public Economics and Applied Microeconomics. I am particularly interested in using microdata and robust quasi-experimental research designs to study how public policy in the US can better serve low-income and marginalized populations, especially how _interactions_ among public policies can help facilitate human capital accumulation for such populations.</font> 
 
-<font size="2"> In my job market paper, I am using multiple quasi-experimental research designs to study not only whether the effects of exposure to a large-scale public program (WIC) in childhood persist through adulthood, but also whether exposure to _multiple_ public programs, even from different domains (for example, a nutritional intervention early in life followed by an educational intervention later in childhood) can lead to “multiplier” effects - that is, when the combined positive effect of exposure to the two programs is larger than the sum of the effects of exposure to each of the two programs on their own. I believe that this newly gained knowledge could shift public policy thinking in the US in a new direction by encouraging policy makers to think about various public policies as elements of a single whole rather than disjoint pieces. By treating different public programs as elements of a single whole, policy makers could then work on making various public programs fit better together, in order to maximize human capital accumulation effects not of any particular public program, but of the entire package of all relevant policies.
+<font size="2"> In my job market paper, I am using multiple quasi-experimental research designs to study not only whether the effects of exposure to a large-scale public program (WIC) in childhood persist through adulthood, but also whether exposure to _multiple_ public programs, even from different domains can lead to policy multiplier effects.
 
 My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the   
 <a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a>.</font>
@@ -44,7 +44,7 @@ My research has been funded by the <a href="https://www.russellsage.org/awarded-
 <br>
 <br>
 <center>
-<img src="photo_of_me.png" style="width:95%;
+<img src="JM_photo.jpg" style="width:90%;
 border:1.5px solid; border-color:white">
 </center>
 :::
