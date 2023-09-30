@@ -4,7 +4,7 @@ knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'home.html'))})
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 layout: default
 output:
   html_document:
@@ -28,7 +28,7 @@ output:
 
 <font size="3"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
 
-<font size="2"> My fields of specialization are Public Economics and Applied Microeconomics. I am particularly interested in using microdata and robust quasi-experimental research designs to study how public policy in the US can better serve low-income and marginalized populations, especially how _interactions_ among public policies can help facilitate human capital accumulation for such populations.</font> 
+<font size="2"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Labor Economics and Health Equity. I am particularly interested in using microdata and robust quasi-experimental research designs to study how public policy in the US, especially _health_ policy, can better serve low-income and marginalized populations, and how _interactions_ among public policies can help facilitate human capital accumulation for such populations.</font> 
 
 <font size="2"> In my job market paper, I am using multiple quasi-experimental research designs to study not only whether the effects of exposure to a large-scale public program (WIC) in childhood persist through adulthood, but also whether exposure to _multiple_ public programs, even from different domains can lead to policy multiplier effects.
 
