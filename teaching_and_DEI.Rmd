@@ -41,6 +41,13 @@ output:
 <span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/TPstatement_spring2023.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Teaching Philosophy Statement</a></span>
 </p>
 
+#### Sample Syllabus ####   
+
+<p style="text-align: left;">
+<span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
+<span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/Empirical_Methods_for_Policy_Evaluation_Syllabus.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Empirical Methods for Policy Evaluation for MPA/MPP Students</a></span>
+</p>
+
 #### Professional Development & Teaching ####   
 
 In the 2022-2023 academic year, I was a Fellow at Cornell’s <a href="https://teaching.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation</a> (CTI) co-leading <a href="https://teaching.cornell.edu/current-graduate-programming" style="color: #8B0000; text-decoration: underline;">CTI’s annual workshops</a>. 
