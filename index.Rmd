@@ -1,5 +1,4 @@
 
-
 ---
 title: " "
 knit: (function(input_file, encoding) {
@@ -7,13 +6,13 @@ knit: (function(input_file, encoding) {
   rmarkdown::render(input_file,
  encoding=encoding,
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-layout: default
 output:
   html_document:
     df_print: paged
     css: "style.css"
 verification: {
     google: 'imLJwncz5To6rZP8YQ8KnOwsnugU7c1oII5b6nBjPXY',
+    
   }    
 ---
 
