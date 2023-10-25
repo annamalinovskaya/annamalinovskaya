@@ -12,6 +12,8 @@ output:
     css: "style.css"
 ---
 
+<meta name="google-site-verification" content="imLJwncz5To6rZP8YQ8KnOwsnugU7c1oII5b6nBjPXY" />
+
 </div>
 <div style="margin-bottom:0px;">
 </div>
