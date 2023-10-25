@@ -1,6 +1,9 @@
 
 ---
 title: " "
+verification: {
+    google: 'imLJwncz5To6rZP8YQ8KnOwsnugU7c1oII5b6nBjPXY',
+    }  
 knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
@@ -10,10 +13,6 @@ output:
   html_document:
     df_print: paged
     css: "style.css"
-verification: {
-    google: 'imLJwncz5To6rZP8YQ8KnOwsnugU7c1oII5b6nBjPXY',
-    
-  }    
 ---
 
 </div>
