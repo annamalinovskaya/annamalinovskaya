@@ -18,13 +18,13 @@ output:
 
 <center> <h1></h1> </center>
 
-# Teaching #
+### Teaching ###
 
-- This fall (2023), I will be serving as a co-instructor for <a href="https://cirtl.net/event/creating-accessible-teaching-and-research-documents-in-stem/2023-11-17/" style="color: #8B0000; text-decoration: underline;">"Creating Accessible Teaching and Research Documents in STEM"</a> offered through the _Center for the Integration of Research, Teaching and Learning (CIRTL)_, a network of 45 research universities in the United States and Canada.
+- <font size="2"> This fall (2023), I will be serving as a co-instructor for <a href="https://cirtl.net/event/creating-accessible-teaching-and-research-documents-in-stem/2023-11-17/" style="color: #8B0000; text-decoration: underline;">"Creating Accessible Teaching and Research Documents in STEM"</a> offered through the _Center for the Integration of Research, Teaching and Learning (CIRTL)_, a network of 45 research universities in the United States and Canada.</font>
 
-#### Graduate Teaching Experience ####
+##### Graduate Teaching Experience #####
 
-- PAM 2350 The US Healthcare System (_fall 2018_)   
+- <font size="2"> PAM 2350 The US Healthcare System (_fall 2018_)   
 - PAM 3110 Intermediate Policy Analysis (_spring 2019_)   
 - AEM 4110 Introduction to Econometrics (_fall 2020_)   
   - _The resources I developed for this course can be accessed <a href="https://sites.google.com/cornell.edu/econometric-exercises/" style="color: #8B0000; text-decoration: underline;">here</a>._
@@ -32,42 +32,42 @@ output:
 - AEM 3245 / 6245 Organizational Behavior (_fall 2021_)   
 - AEM 3320 / 6325 Leadership and Management in Sports (_fall 2021_)   
 - PAM 4240 / 5240 Risk Management and Policy (_fall 2021_)   
-  - _The resources I developed for this course can be accessed <a href="https://sites.google.com/cornell.edu/pam5240resources/home" style="color: #8B0000; text-decoration: underline;">here</a>._   
+  - _The resources I developed for this course can be accessed <a href="https://sites.google.com/cornell.edu/pam5240resources/home" style="color: #8B0000; text-decoration: underline;">here</a>._  </font>
 
-#### Teaching Philosophy ####   
+##### Teaching Philosophy #####   
 
-<p style="text-align: left;">
+<font size="2"><p style="text-align: left;">
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
 <span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/TPstatement_spring2023.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Teaching Philosophy Statement</a></span>
-</p>
+</p></font>
 
-#### Sample Syllabus ####   
+##### Sample Syllabus #####   
 
-<p style="text-align: left;">
+<font size="2"><p style="text-align: left;">
 <span style="text-align: center; display: inline-block;" class="fa fa-2x fa-pencil" aria-hidden="true"></span>
 <span class="my-text"><a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/Empirical_Methods_for_Policy_Evaluation_Syllabus.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">Empirical Methods for Policy Evaluation for MPA/MPP Students</a></span>
-</p>
+</p></font>
 
-#### Professional Development & Teaching ####   
+##### Professional Development & Teaching #####   
 
-In the 2022-2023 academic year, I was a Fellow at Cornell’s <a href="https://teaching.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation</a> (CTI) co-leading <a href="https://teaching.cornell.edu/current-graduate-programming" style="color: #8B0000; text-decoration: underline;">CTI’s annual workshops</a>. 
+<font size="2">In the 2022-2023 academic year, I was a Fellow at Cornell’s <a href="https://teaching.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Center for Teaching Innovation</a> (CTI) co-leading <a href="https://teaching.cornell.edu/current-graduate-programming" style="color: #8B0000; text-decoration: underline;">CTI’s annual workshops</a>. 
 
 + In the fall of 2022, I co-led CTI's annual workshop on developing a Diversity Statement. 
-+ In the spring of 2023, I co-led CTI's annual workshop on designing effective learning assessments. 
++ In the spring of 2023, I co-led CTI's annual workshop on designing effective learning assessments.</font>
 
 <hr style="border:0.5px solid gray">
 
 <center> <h1></h1> </center>
 
-## Diversity, Equity & Inclusion ##
+### Diversity, Equity & Inclusion ###
 
-- On March 24th, I co-organized & co-led a workshop on accessibility in STEM for faculty & graduate students.
+- <font size="2">On March 24th, I co-organized & co-led a workshop on accessibility in STEM for faculty & graduate students.
   - _The slides are available <a href="https://docs.google.com/presentation/d/1r6h4OnGrFVzc2kq_xG7hEFsJfFJLq0M0O9-Hv3nhyn0/edit?usp=sharing" style="color: #8B0000; text-decoration: underline;">here</a>._
   - _All workshop materials can be accessed <a href="https://cornell.box.com/s/79l79clrlvd09uyy014so6im10ydp1o3" style="color: #8B0000; text-decoration: underline;">here</a>._ 
-- On April 1st, I co-led a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the <a href="https://www.eyh.cornell.edu/index.php" style="color: #8B0000; text-decoration: underline;">Expanding Your Horizons</a> conference at Cornell University.
+- On April 1st, I co-led a workshop on mathematical economics for a group of high school students from underrepresented backgrounds as part of the <a href="https://www.eyh.cornell.edu/index.php" style="color: #8B0000; text-decoration: underline;">Expanding Your Horizons</a> conference at Cornell University.</font>
 
 <center>
-<img src="flyer_v4_final.png" style="width:70%;
+<img src="flyer_v4_final.png" style="width:60%;
 border:1px solid; border-color:white">
 </center>
 
