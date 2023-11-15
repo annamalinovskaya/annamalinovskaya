@@ -18,7 +18,7 @@ output:
 <br><br>
   <img src="white.png">
 <br><br>
-My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_short.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_short.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
+My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
 </p>
 
 <hr style="border:0.2px solid gray">
