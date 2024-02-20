@@ -28,12 +28,13 @@ output:
 
 <font size="3"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
 
-<font size="2"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Labor Economics and Health Equity. I am particularly interested in using microdata and robust quasi-experimental research designs to study how public policy in the US, especially _health_ policy, can better serve low-income and marginalized populations and reduce racial and socio-economic disparities. In my job market paper, I study whether the effects of exposure _in utero_ to a large-scale public program, WIC, persist through adulthood.</font>
+<font size="2"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Labor and Health. My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the <a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a>.</font>
 
-My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the   
-<a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a>.</font>
+<font size="2"> My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
+
 </center>
 <br>
+
 
 :::
 
