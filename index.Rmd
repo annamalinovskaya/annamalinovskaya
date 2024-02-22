@@ -28,13 +28,13 @@ output:
 <center><h1><font size="6"> Anna (Ganna) Malinovskaya</h1></font> </center>
 <br>
 <center>
-<font size="4"> Ph.D. Candidate in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management</a> at the SC Johnson College of Business, Cornell University </font> 
+<font size="4"> I am currently a Ph.D. Candidate in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management</a> at the SC Johnson College of Business, Cornell University</font>. 
 
-<font size="3"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
+<font size="2"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
 
-<font size="2"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Labor and Health. My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the <a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a>.</font>
+<font size="4"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Health and Labor. My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the <a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a></font>. <font size="4"> My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
 
-<font size="2"> My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
+<font size="4"> Starting in the summer of 2024, I will be a Postdoctoral Fellow at Princeton University's <a href="https://chw.princeton.edu/" style="color: #8B0000; text-decoration: underline;">Center for Health & Wellbeing</a></font>.  
 
 </center>
 <br>
@@ -46,7 +46,7 @@ output:
 <br>
 <br>
 <center>
-<img src="JM_photo.jpg" style="width:90%;
+<img src="JM_photo.jpg" style="width:80%;
 border:1.5px solid; border-color:white">
 </center>
 :::
