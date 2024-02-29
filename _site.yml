@@ -3,7 +3,9 @@ output_dir: "docs"
 navbar:
   title: "Anna (Ganna) Malinovskaya"
       
- 
+  left:
+    - text: "Home"
+      href: home.html 
 
   right:
     - icon: fas fa-envelope fas-lg
