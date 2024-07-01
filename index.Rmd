@@ -9,7 +9,7 @@ knit: (function(input_file, encoding) {
   out_dir <- 'docs';
   rmarkdown::render(input_file,
  encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+ output_file=file.path(dirname(input_file), out_dir, 'home.html'))})
 output:
   html_document:
     df_print: paged
@@ -28,13 +28,11 @@ output:
 <center><h1><font size="6"> Anna (Ganna) Malinovskaya</h1></font> </center>
 <br>
 <center>
-<font size="4"> I am currently a Ph.D. Candidate in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management</a> at the SC Johnson College of Business, Cornell University</font>. 
+<font size="4"> I am a Postdoctoral Fellow at Princeton University's <a href="https://chw.princeton.edu/" style="color: #8B0000; text-decoration: underline;">Center for Health & Wellbeing</a>. I hold a Ph.D. in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management</a> from the SC Johnson College of Business, Cornell University</font>. 
 
 <font size="2"> <a href="https://namedrop.io/annamalinovskaya" style="color: #8B0000; text-decoration: underline;">Pronouncing my name</a> </font>   
 
-<font size="4"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Health and Labor. My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the <a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a></font>. <font size="4"> My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_long_Malinovskaya.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
-
-<font size="4"> Starting in the summer of 2024, I will be a Postdoctoral Fellow at Princeton University's <a href="https://chw.princeton.edu/" style="color: #8B0000; text-decoration: underline;">Center for Health & Wellbeing</a></font>.  
+<font size="4"> My fields of specialization are Public Economics and Applied Microeconomics, with interests in Health and Labor. My research has been funded by the <a href="https://www.russellsage.org/awarded-project/covid-driven-technology-adoption-and-worker-inequality-us" style="color: #8B0000; text-decoration: underline;">Russell Sage Foundation</a> and the <a href="https://equitablegrowth.org/people/anna-malinovskaya/" style="color: #8B0000; text-decoration: underline;">DC Center for Equitable Growth</a></font>. <font size="4"> My CV can be viewed <a href="https://docs.google.com/viewer?url=https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_2024_June.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a> and downloaded <a href="https://github.com/annamalinovskaya/annamalinovskaya/blob/main/CV_2024_June.pdf?raw=true" style="color: #8B0000; text-decoration: underline;">here</a>.</font>
 
 </center>
 <br>
