@@ -25,7 +25,7 @@ output:
 <br>
 <br>
 <br>
-<center><h1><font size="6"> Anna (Ganna) Malinovskaya</h1></font> </center>
+<center><h1><font size="6"> Anna Malinovskaya</h1></font> </center>
 <br>
 <center>
 <font size="4"> I am a Postdoctoral Fellow at Princeton University's <a href="https://chw.princeton.edu/" style="color: #8B0000; text-decoration: underline;">Center for Health & Wellbeing</a>. I hold a Ph.D. in <a href="https://dyson.cornell.edu/" style="color: #8B0000; text-decoration: underline;">Applied Economics & Management</a> from the SC Johnson College of Business, Cornell University</font>. 
